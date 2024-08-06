@@ -10,3 +10,23 @@ body{
 .bg-black-main{
     background-color: #333333;
 }
+
+.bg-orange{
+    background-color: #FF8A00;
+}
+
+.text-main{
+    color: #00B207;
+}
+
+.big-banner{
+    background-image: url(./imgs/girl\ \ fruits&legume.jpg);
+}
+
+.small-banner-1{
+    background-image: url(./imgs/sacetlegume.png);
+}
+
+.small-banner-2{
+    background-image: url(./imgs/leafbackground.png);
+}
