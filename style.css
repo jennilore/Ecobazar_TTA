@@ -30,3 +30,13 @@ body{
 .small-banner-2{
     background-image: url(./imgs/leafbackground.png);
 }
+
+.w-15{
+    width: 15%;
+}
+
+@media screen and (max-width: 768px){
+    .w-15{
+        width: 30%;
+    }
+}
