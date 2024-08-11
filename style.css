@@ -19,20 +19,42 @@ body{
     color: #00B207;
 }
 
+.col{
+    color: #FF8A00;
+}
+
 .big-banner{
     background-image: url(./imgs/girl\ \ fruits&legume.jpg);
 }
 
 .small-banner-1{
     background-image: url(./imgs/sacetlegume.png);
+    background-position: center;
 }
 
 .small-banner-2{
     background-image: url(./imgs/leafbackground.png);
 }
 
+.type-1{
+    background-image: url(./imgs/sale-of-the-month.png);
+}
+
+.type-2{
+    background-image: url(./imgs/low-fat-meet.png);
+}
+
+.type-3{
+    background-image: url(./imgs/fresh-fruits.png);
+}
+
 .w-15{
     width: 15%;
+}
+
+.h-100{
+    height: 500px;
+    font-family: sans-serif;
 }
 
 @media screen and (max-width: 768px){
