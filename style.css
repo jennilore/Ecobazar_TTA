@@ -48,6 +48,11 @@ body{
     background-image: url(./imgs/fresh-fruits.png);
 }
 
+.discount-container{
+    background-image: url(./imgs/legume.jpg);
+    height: 300px;
+}
+
 .w-15{
     width: 15%;
 }
