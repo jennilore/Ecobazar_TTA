@@ -53,6 +53,36 @@ body{
     height: 300px;
 }
 
+.insta-1{
+    background-image: url(./imgs/Instagram\ Post.png);
+    height: 150px;
+}
+
+.insta-2{
+    background-image: url(./imgs/Instagram\ Post\ \(5\).png);
+    height: 150px;
+}
+
+.insta-3{
+    background-image: url(./imgs/Instagram\ Post\ \(1\).png);
+    height: 150px;
+}
+
+.insta-4{
+    background-image: url(./imgs/Instagram\ Post\ \(2\).png);
+    height: 150px;
+}
+
+.insta-5{
+    background-image: url(./imgs/Instagram\ Post\ \(3\).png);
+    height: 150px;
+}
+
+.insta-6{
+    background-image: url(./imgs/Instagram\ Post\ \(4\).png);
+    height: 150px;
+}
+
 .w-15{
     width: 15%;
 }
