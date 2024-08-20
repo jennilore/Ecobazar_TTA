@@ -3,6 +3,10 @@ body{
     padding: 0;
 }
 
+.contact-place{
+    border: 1.5px #00B207 solid;
+}
+
 .bg-main{
    background-color: #00B207
 }
@@ -26,6 +30,8 @@ body{
 .col{
     color: #FF8A00;
 }
+
+
 
 .big-banner{
     background-image: url(./imgs/girl\ \ fruits&legume.jpg);
@@ -87,6 +93,11 @@ body{
     height: 150px;
 }
 
+.contact-map{
+    background-image: url(./imgs/Map\ Image.png);
+    height: 300;
+}
+
 .w-15{
     width: 15%;
 }
@@ -96,8 +107,19 @@ body{
     font-family: sans-serif;
 }
 
+.contact-page-header{
+    background-image: url(./imgs/Breadcrumbs.png);
+    height: 100px;
+}
+
 @media screen and (max-width: 768px){
     .w-15{
         width: 30%;
+    }
+    .contact-page-header{
+        display: none;
+    }
+    .contact-page-header{
+        display: none;
     }
 }
