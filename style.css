@@ -112,6 +112,11 @@ body{
     height: 100px;
 }
 
+.blog-page-header{
+    background-image: url(./imgs/blog-header.png);
+    height: 100px;
+}
+
 @media screen and (max-width: 768px){
     .w-15{
         width: 30%;
