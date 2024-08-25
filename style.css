@@ -63,6 +63,11 @@ body{
     height: 300px;
 }
 
+.single-blog-discount-container{
+    background-image: url(./imgs/Rectangle\ 51.png);
+    height: 200px;
+}
+
 .insta-1{
     background-image: url(./imgs/Instagram\ Post.png);
     height: 150px;
@@ -109,6 +114,11 @@ body{
 
 .contact-page-header{
     background-image: url(./imgs/Breadcrumbs.png);
+    height: 100px;
+}
+
+.single-blog-page-header{
+    background-image: url(./imgs/single-blog-breadcrumbs.png);
     height: 100px;
 }
 
